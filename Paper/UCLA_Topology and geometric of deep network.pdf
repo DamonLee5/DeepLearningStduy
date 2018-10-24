@@ -19988,4 +19988,110 @@ f
 0001376431 00000 n
 0001376777 00000 n
 0001377011 00000 n
-trailer<</Size 552/Root 12 0 R/Info 2 0 R/ID[<2C44E9AD93A048338122D988A610F459><B0252C8542D94BC2BC49673976E5548F>]/Prev 1356024>>startxref1377381%%EOF
+trailer<</Size 552/Root 12 0 R/Info 2 0 R/ID[<2C44E9AD93A048338122D988A610F459><B0252C8542D94BC2BC49673976E5548F>]/Prev 1356024>>startxref1377381%%EOF2 0 obj<</Author(Alhussein Fawzi, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard, Stefano Soatto)/CreationDate(D:20181024123012-04'00')/ModDate(D:20181024152411-04'00')/Producer(PyPDF2)/Subject(2018 IEEE Conference on Computer Vision and Pattern Recognition)/Title(Empirical Study of the Topology and Geometry of Deep Networks)>>endobj3 0 obj<</Annots[394 0 R 395 0 R 396 0 R 397 0 R 398 0 R 399 0 R 410 0 R 411 0 R 412 0 R 413 0 R 414 0 R 415 0 R 416 0 R 417 0 R 418 0 R 419 0 R 434 0 R 435 0 R 436 0 R 437 0 R 498 0 R 499 0 R 500 0 R 501 0 R 502 0 R 503 0 R 504 0 R 505 0 R 559 0 R 560 0 R]/Contents 13 0 R/MediaBox[0 0 612 792]/Parent 1 0 R/Resources<</ExtGState<</R7 32 0 R/a0<</CA 1/ca 1>>/s11 29 0 R/s5 33 0 R/s7 36 0 R/s9 26 0 R>>/Font<</F1 53 0 R/F2 39 0 R/R10 44 0 R/R12 48 0 R/R14 54 0 R/R16 57 0 R/R18 61 0 R/R20 66 0 R/R22 71 0 R/R24 76 0 R/R8 40 0 R>>/ProcSet[/ImageC/Text/PDF/ImageI/ImageB]/XObject<</x10 23 0 R/x12 20 0 R/x6 17 0 R/x8 14 0 R>>>>/Rotate 0/Type/Page>>endobj8 0 obj<</Annots[552 0 R 553 0 R 554 0 R 555 0 R]/Contents 224 0 R/Group 142 0 R/MediaBox[0 0 612 792]/Parent 1 0 R/Resources<</ExtGState<</R144 277 0 R/R149 278 0 R/R156 249 0 R/R58 132 0 R/R59 138 0 R/R69 122 0 R/R7 32 0 R>>/Font<</F1 307 0 R/F2 306 0 R/R10 44 0 R/R131 210 0 R/R135 216 0 R/R147 262 0 R/R152 281 0 R/R16 57 0 R/R173 291 0 R/R189 254 0 R/R191 266 0 R/R193 258 0 R/R20 66 0 R/R200 299 0 R/R202 295 0 R/R204 303 0 R/R22 71 0 R/R31 100 0 R/R35 113 0 R/R37 109 0 R/R39 105 0 R/R41 96 0 R/R43 93 0 R/R45 88 0 R/R8 40 0 R>>/ProcSet[/Text/ImageC/ImageB/PDF/ImageI]/XObject<</R145 245 0 R/R146 274 0 R/R150 280 0 R/R151 279 0 R/R154 276 0 R/R157 275 0 R/R158 234 0 R/R159 290 0 R/R160 238 0 R/R161 237 0 R/R162 236 0 R/R163 235 0 R/R164 242 0 R/R165 241 0 R/R166 240 0 R/R167 239 0 R/R168 244 0 R/R169 243 0 R/R170 288 0 R/R171 289 0 R/R172 287 0 R/R175 286 0 R/R176 252 0 R/R177 253 0 R/R178 250 0 R/R179 251 0 R/R180 226 0 R/R181 225 0 R/R182 228 0 R/R183 227 0 R/R184 230 0 R/R185 229 0 R/R186 232 0 R/R187 231 0 R/R188 233 0 R/R195 248 0 R/R196 246 0 R/R197 247 0 R/R198 272 0 R/R199 273 0 R>>>>/Rotate 0/Type/Page>>endobj393 0 obj<</Length 3704/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c015 91.163280, 2018/06/22-11:31:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Alhussein Fawzi, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard, Stefano Soatto</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">2018 IEEE Conference on Computer Vision and Pattern Recognition</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Empirical Study of the Topology and Geometry of Deep Networks</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <pdf:Producer>PyPDF2</pdf:Producer>
+         <xmp:ModifyDate>2018-10-24T15:24:11-04:00</xmp:ModifyDate>
+         <xmp:CreateDate>2018-10-24T12:30:12-04:00</xmp:CreateDate>
+         <xmp:MetadataDate>2018-10-24T15:24:11-04:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>uuid:fb1b8289-d53a-6249-bfa8-8c110a39c2d0</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:ec1f5686-76de-6448-817e-8ae3eb80d46a</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj552 0 obj<</AP<</N 556 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/CreationDate(D:20181024151601-04'00')/F 4/M(D:20181024151601-04'00')/NM(dfd27914-309e-6140-9167-6696f5c03853)/P 8 0 R/Popup 553 0 R/QuadPoints[59.7566 436.234 61.5052 436.234 59.7566 433.916 61.5052 433.916]/Rect[59.1379 433.844 62.1239 436.306]/Subj(Highlight)/Subtype/Highlight/T(damonli)/Type/Annot>>endobj553 0 obj<</F 28/Open false/Parent 552 0 R/Rect[612.0 322.234 816.0 436.234]/Subtype/Popup/Type/Annot>>endobj554 0 obj<</AP<</N 476 0 R>>/C[1.0 0.819611 0.0]/Contents(For x,y is a curve, for z is not a curve)/CreationDate(D:20181024151604-04'00')/F 28/M(D:20181024151622-04'00')/NM(c16d6f6b-018d-c14f-bb1b-c7c38e44812e)/Name/Comment/P 8 0 R/Popup 555 0 R/RC(<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:19.8.0" xfa:spec="2.0.2" ><p dir="ltr"><span dir="ltr" style="font-size:14.0pt;text-align:left;color:#000000;font-w\eight:normal;font-style:normal">For x,y is a curve, for z is not a curve</span></p></body>)/Rect[21.8076 395.919 39.8076 413.919]/Subj(Sticky Note)/Subtype/Text/T(damonli)/Type/Annot>>endobj555 0 obj<</F 28/Open false/Parent 554 0 R/Rect[612.0 299.919 816.0 413.919]/Subtype/Popup/Type/Annot>>endobj556 0 obj<</BBox[0.0 0.0 2.98608 2.46265]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 557 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj557 0 obj<</BBox[0.0 0.0 2.98608 2.46265]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 558 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj558 0 obj<</BBox[59.1379 433.844 62.1239 436.306]/FormType 1/Length 171/Matrix[1.0 0.0 0.0 1.0 -59.1379 -433.844]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0.819611 0 rg
+0.1449 w
+59.7566 433.9161 m
+59.2103 434.4624 59.2103 435.6876 59.7566 436.2339 c
+61.5052 436.2339 l
+62.0515 435.6876 62.0515 434.4624 61.5052 433.9161 c
+f
+endstreamendobj559 0 obj<</AP<</N 561 0 R>>/C[1.0 0.819611 0.0]/CA 0.399994/CreationDate(D:20181024152410-04'00')/F 4/M(D:20181024152410-04'00')/NM(a3db3cda-23ef-1c43-a4b6-979bfa2df4e4)/P 3 0 R/Popup 560 0 R/QuadPoints[373.711 365.582 411.828 365.582 373.711 354.543 411.828 354.543]/Rect[370.764 354.198 414.775 365.927]/Subj(Highlight)/Subtype/Highlight/T(damonli)/Type/Annot>>endobj560 0 obj<</F 28/Open false/Parent 559 0 R/Rect[612.0 251.582 816.0 365.582]/Subtype/Popup/Type/Annot>>endobj561 0 obj<</BBox[0.0 0.0 44.0102 11.7284]/FormType 1/Length 27/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ExtGState<</R0<</AIS false/CA 0.399994/Type/ExtGState/ca 0.399994>>/R1<</AIS false/BM/Multiply/Type/ExtGState>>>>/ProcSet[/PDF]/XObject<</MWFOForm 562 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/R0 gs
+/R1 gs
+/MWFOForm Do
+endstreamendobj562 0 obj<</BBox[0.0 0.0 44.0102 11.7284]/FormType 1/Group<</S/Transparency>>/Length 9/Matrix[1.0 0.0 0.0 1.0 0.0 0.0]/Resources<</ProcSet[/PDF]/XObject<</Form 563 0 R>>>>/Subtype/Form/Type/XObject>>stream
+/Form Do
+endstreamendobj563 0 obj<</BBox[370.764 354.198 414.775 365.927]/FormType 1/Length 179/Matrix[1.0 0.0 0.0 1.0 -370.764 -354.198]/Resources<</ProcSet[/PDF]>>/Subtype/Form/Type/XObject>>stream
+1 0.819611 0 rg
+0.6899 w
+373.7112 354.5433 m
+371.1094 357.1451 371.1094 362.9799 373.7112 365.5817 c
+411.8279 365.5817 l
+414.4297 362.9799 414.4297 357.1451 411.8279 354.5433 c
+f
+endstreamendobjxref
+0 1
+0000000000 65535 f
+2 2
+0001378297 00000 n
+0001378635 00000 n
+8 1
+0001379290 00000 n
+393 1
+0001380429 00000 n
+552 12
+0001384211 00000 n
+0001384584 00000 n
+0001384696 00000 n
+0001385395 00000 n
+0001385507 00000 n
+0001385854 00000 n
+0001386089 00000 n
+0001386456 00000 n
+0001386829 00000 n
+0001386941 00000 n
+0001387288 00000 n
+0001387523 00000 n
+trailer<</Size 564/Root 12 0 R/Info 2 0 R/ID[<2C44E9AD93A048338122D988A610F459><5D71762063C24E1A94C5D820689EC895>]/Prev 1377381>>startxref1387898%%EOF
